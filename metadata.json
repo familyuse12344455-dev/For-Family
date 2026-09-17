@@ -1,0 +1,7 @@
+{
+  "name": "TORQFIX — Customer App",
+  "description": "Luxury car repair, pickup and delivery customer application for Pakistan with live vehicle tracking and status timeline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
